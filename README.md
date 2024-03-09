@@ -37,16 +37,11 @@
 
 ###
 
-<br clear="both">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65dc3272aec67f2e2a9a9024?variant=dark" alt="roadmap.sh"/></a>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=madhan-karthikeyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhan-karthikeyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhan-karthikeyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=madhan-karthikeyan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhan-karthikeyan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
 
 ###
