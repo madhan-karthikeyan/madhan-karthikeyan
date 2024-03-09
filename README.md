@@ -21,6 +21,7 @@
 ###
 
 <div align="left">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65dc3272aec67f2e2a9a9024?variant=dark" alt="roadmap.sh"/></a>
   <a href="https://www.instagram.com/_madhan4090/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
